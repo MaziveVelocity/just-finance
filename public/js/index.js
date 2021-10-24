@@ -136,6 +136,7 @@ function sendTransaction(isAdding) {
   })
   .catch(err => {
     // fetch failed, so save in indexed db
+    alert('Transaction saved while online');
     saveRecord(transaction);
 
     // clear form
