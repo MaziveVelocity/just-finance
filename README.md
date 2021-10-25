@@ -29,4 +29,4 @@ time storage.
 
 [Just Finance](https://just-finance.herokuapp.com/)
 
-![Homepage image](assets\images\screenshot.png)
+![Homepage image](/assets/images/screenshot.png)
